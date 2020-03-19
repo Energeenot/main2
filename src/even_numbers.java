@@ -12,6 +12,7 @@ public class even_numbers {
             if (x%2==0){
                 s = x;
                 System.out.print(s + " ");
+
             }
             x++;
         }
